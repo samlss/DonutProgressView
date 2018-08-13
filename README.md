@@ -5,6 +5,11 @@
 
 [![Api reqeust](https://img.shields.io/badge/api-1+-green.svg)](https://github.com/samlss/DonutProgressView)  [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/samlss/DonutProgressView/blob/master/LICENSE) [![Blog](https://img.shields.io/badge/samlss-blog-orange.svg)](https://blog.csdn.net/Samlss)
 
+
+<br>
+
+![DonutProgressView](https://github.com/samlss/DonutProgressView/blob/master/screenshots/screenshot1.gif)
+
 <br>
 
   * [中文](#%E4%B8%AD%E6%96%87)
